@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm install express",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm init"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "express"
+  ],
+  "author": "NicoleCandice",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "mysql": "^2.15.0"
+  }
+}

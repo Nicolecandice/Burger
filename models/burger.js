@@ -15,6 +15,7 @@ var burger = {// orm connects with the models burger.js to cb the results
         var condition = "id=" + id;
         orm.updateOne("burgers", { devoured: true }, condition, cb);
     }
+
 };
 
 
